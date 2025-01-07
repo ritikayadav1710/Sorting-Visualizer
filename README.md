@@ -23,7 +23,7 @@ Sorting Visualizer is a web-based application that provides a visual representat
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/ritikayadav1710/Sorting-Visualizer.git
    
 2. Navigate to the project directory:
    
