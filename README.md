@@ -22,11 +22,11 @@ Sorting Visualizer is a web-based application that provides a visual representat
 ## How to Run
 
 1. Clone the repository:
-
+   ```bash
    git clone https://github.com/ritikayadav1710/Sorting-Visualizer.git
    
 2. Navigate to the project directory:
-   
+   ```bash
    cd sorting-visualizer
 
 3. Open the index.html file in a web browser to start the application.
